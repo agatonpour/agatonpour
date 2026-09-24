@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Agaton 👋
 
-<!--
-**agatonpour/agatonpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an M.S. Computer Science student at Stanford University interested in
+autonomous systems, machine learning, and intelligent decision-making.
 
-Here are some ideas to get you started:
+Previously, I studied Computer Science at UC Irvine, where I conducted
+research in the Robot Ecology Lab and contributed to two research publications
+on autonomous robotic systems and persistent environmental monitoring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alongside my research, I work as a Software & AI Engineer at HEMA Studio,
+building production AI/ML and computer vision systems.
+
+I'm particularly interested in problems at the intersection of software
+engineering, machine learning, optimization, and autonomous systems.
