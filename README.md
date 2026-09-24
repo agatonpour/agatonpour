@@ -11,4 +11,4 @@ Alongside my research, I work as a Software & AI Engineer at HEMA Studio,
 building production AI/ML and computer vision systems.
 
 I'm particularly interested in problems at the intersection of software
-engineering, machine learning, optimization, and autonomous systems.
+engineering, machine learning autonomous systems and sustainability.
